@@ -138,4 +138,4 @@
 - はたらく細胞BLACK
 
 ### Q2
-- SSSS.DYNAZENON
+
